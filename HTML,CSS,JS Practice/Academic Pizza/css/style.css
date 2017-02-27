@@ -1,0 +1,123 @@
+body {
+	width: 100%;
+	background: url(../images/pizza.jpg) no-repeat center fixed;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+	text-shadow: 1px 1px #fff;
+}
+
+h1 {
+	color: #000;
+	font-size: 50px;
+	margin: 50px;
+}
+
+#firstSelection {
+	margin: auto;
+	position: absolute;
+	margin-left: 15px;
+
+}
+
+#secondSelection {
+	margin: auto;
+	margin-left: 200px;
+}
+
+.selection { 
+	margin: auto;
+	padding: 15px;
+}
+
+.selection>h2 {
+	color: #a5a5a5;
+	margin: auto;
+}
+
+button {
+	cursor: pointer;
+	color: #a5a5a5;
+	background-color: #fff;
+	width: 100px;
+	border-radius: 25px;
+	margin: 25px -200px 0 200px;
+}
+
+button>p {
+	text-align: center;
+	font-weight: bold;
+}
+
+button:hover {
+	font-weight: bold;
+	color: #000;
+	box-shadow: 0 0 0 2px #000;
+}
+
+button:focus {
+	outline: none;
+}
+
+
+#receipt {
+	opacity: 0;
+	margin: 25px 0 0 155px;
+	width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+	border: 2px solid #000;
+	border-radius: 25px;
+}
+
+#head1 {
+	color: #a5a5a5;
+	flex: 1 125px;
+	height: 50px;
+	width: 50px;
+	padding: 0 0 0px 10px;
+	border-radius: 25px 0 0 0;
+}
+
+#head2 {
+	color: #a5a5a5;
+	flex: 1 125px;
+	height: 50px;
+	width: 50px;
+	padding: 0 0 0px 10px;
+	border-radius: 0 25px 0 0;
+}
+
+#name {
+	font-size: 15px;
+	flex: 1 125px;
+	padding: 1px 0 10px 10px;
+	width: 50px;
+	border-radius: 0 0 0 0;
+}
+
+#amount {
+	font-size: 15px;
+	flex: 1 125px;
+	padding: 1px 0 10px 10px;
+	width: 50px;
+	border-radius: 0 0 0 0;
+}
+
+#totalName {
+	flex: 1 125px;
+	padding: 20px 0 0 10px;
+	width: 50px;
+	border-radius: 0 0 0 0;
+}
+
+#totalAmount {
+	flex: 1 125px;
+	font-weight: bold;
+	padding: 20px 0 0 10px;
+	width: 50px;
+	border-radius: 0 0 0 0;
+}

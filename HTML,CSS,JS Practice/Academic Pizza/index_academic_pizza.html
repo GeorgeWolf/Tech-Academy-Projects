@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Academic Pizza</title>
+		<meta http-equiv="Content-Type" content="text/html"; charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="./css/style.css">
+	</head>
+	<body>
+		<div><h1>Academic Pizza</h1>
+			<form id="formSelection">
+				<div id="firstSelection">
+					<div class="selection">
+						<h2>Size</h2>
+						<input class = "size" type="radio" name="size" value="Personal" checked> Personal<br>
+						<input class = "size" type="radio" name="size" value="Medium"> Medium<br>
+						<input class = "size" type="radio" name="size" value="Large"> Large<br>
+						<input class = "size" type="radio" name="size" value="Extra Large"> Extra Large<br>
+					</div>
+					<div class="selection">
+						<h2>Meats</h2>
+						<input class = "meats" type="checkbox" name="meats" value="Pepperoni"> Pepperoni<br>
+						<input class = "meats" type="checkbox" name="meats" value="Sausage"> Sausage<br>
+						<input class = "meats" type="checkbox" name="meats" value="Canadian Bacon"> Canadian Bacon<br>
+						<input class = "meats" type="checkbox" name="meats" value="Ground Beef"> Ground Beef<br>
+						<input class = "meats" type="checkbox" name="meats" value="Anchovy"> Anchovy<br>
+						<input class = "meats" type="checkbox" name="meats" value="Chicken"> Chicken<br>
+					</div>					
+					<div class="selection">
+						<h2>Veggies</h2>
+						<input class = "veggies" type="checkbox" name="veggies" value="Tomatoes"> Tomatoes<br>
+						<input class = "veggies" type="checkbox" name="veggies" value="Onions"> Onions<br>
+						<input class = "veggies" type="checkbox" name="veggies" value="Olives"> Olives<br>
+						<input class = "veggies" type="checkbox" name="veggies" value="Green Peppers"> Green Peppers<br>
+						<input class = "veggies" type="checkbox" name="veggies" value="Mushrooms"> Mushrooms<br>
+						<input class = "veggies" type="checkbox" name="veggies" value="Pineapple"> Pineapple<br>
+						<input class = "veggies" type="checkbox" name="veggies" value="Spinach"> Spinach<br>
+						<input class = "veggies" type="checkbox" name="veggies" value="Jalapeno"> Jalapeno<br>
+					</div>
+				</div>
+				<div id="secondSelection">
+					<div class="selection">
+						<h2>Cheese</h2>
+						<input class = "cheese" type="radio" name="cheese" value="Regular" checked> Regular<br>
+						<input class = "cheese" type="radio" name="cheese" value="No cheese"> No cheese<br>
+						<input class = "cheese" type="radio" name="cheese" value="Extra Cheese"> Extra Cheese<br>
+					</div>
+					<div class="selection">
+						<h2>Crust</h2>
+						<input class = "crust" type="radio" name="crust" value="Plain Crust" checked> Plain Crust<br>
+						<input class = "crust" type="radio" name="crust" value="Garlic Butter Crust"> Garlic Butter Crust<br>
+						<input class = "crust" type="radio" name="crust" value="Cheese Stuffed Crust"> Cheese Stuffed Crust<br>
+						<input class = "crust" type="radio" name="crust" value="Spicy Crust"> Spicy Crust<br>
+						<input class = "crust" type="radio" name="crust" value="House Special Crust"> House Special Crust<br>
+					</div>
+					<div class="selection">
+						<h2>Sauce</h2>
+						<input class = "sauce" type="radio" name="sauce" value="Marinara sauce" checked> Marinara sauce<br>
+						<input class = "sauce" type="radio" name="sauce" value="White sauce"> White sauce<br>
+						<input class = "sauce" type="radio" name="sauce" value="Barbeque sauce"> Barbeque sauce<br>
+						<input class = "sauce" type="radio" name="sauce" value="No Sauce"> No Sauce<br>
+					</div>
+				</div>
+			</form>
+			<div>
+				<button type="button" onclick="getReceipt()"><p>Order Pizza</p></button>
+				<button type="reset" onclick="clearAll()"><p>Nope</p></button>
+			</div>
+			<div id="receipt">
+				<div id="head1"><h3>Order</h3></div>
+				<div id="head2"><h3>Price ($)</h3></div>
+				<div id="name"></div>
+				<div id="amount"></div>
+				<div id="totalName"><h2>Total Price</h2></div>
+				<div id="totalAmount"></div>
+			</div>
+		</div>
+	
+		<script src="./js/script.js"></script>
+	</body>
+</html>
