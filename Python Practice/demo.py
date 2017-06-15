@@ -104,10 +104,13 @@ def character_stats(health,attack,name,title):
             change = False
         if attack == 12:
             print("\n\nYou are on the right track. Just keep it up!")
+            change = False
         if attack == 14:
             print("\n\nYou hear a voice in your head: 'That's the spirit! I mean for the weapon upgrade, not for the running.'")
+            change = False
         if attack == 16:
             print("\n\nYou have done it! Now go to West and defeat the Troll!")
+            change = False
         stats(health,attack,name,title)
 
 
