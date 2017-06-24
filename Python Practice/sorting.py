@@ -18,6 +18,9 @@
 
 # Bubble sort
 
+list1 = [67, 45, 2, 13, 1, 998]
+list2 = [89, 23, 33, 45, 10, 12, 45, 45, 45]
+
 def bubbleSort(lists):
     for i in range(len(lists)-1):
         for j in range(len(lists)-1-i):
@@ -25,10 +28,6 @@ def bubbleSort(lists):
                 lists[j], lists[j + 1] = lists[j + 1], lists[j]
                 #print(lists) # See the Bubble sort step by step
     return lists
-
-
-list1 = [67, 45, 2, 13, 1, 998]
-list2 = [89, 23, 33, 45, 10, 12, 45, 45, 45]
 
 print(bubbleSort(list1))
 print(bubbleSort(list2))
