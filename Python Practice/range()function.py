@@ -1,4 +1,4 @@
-# Python:   3.6.1
+# Python:   3.6.2
 #
 # Author:   George Wolf (georgewolf.ot@gmail.com)
 #
