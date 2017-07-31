@@ -14,8 +14,9 @@ import os
 import glob
 
 # Source and Destination folders
-folderA = 'C:\Users\MrWolf\Desktop\Folder A' # Replace it with your own source folder
-folderB = 'C:\Users\MrWolf\Desktop\Folder B' # Replace it with your own destination folder
+# To avoid Unicode character error from stopping the program use \\ or / for the path
+folderA = 'C:\\Users\\MrWolf\\Desktop\\Folder A' # Replace it with your own source folder
+folderB = 'C:\\Users\\MrWolf\\Desktop\\Folder B' # Replace it with your own destination folder
 
 txtFiles = folderA + "\*.txt"
 
