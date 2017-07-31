@@ -4,7 +4,7 @@
 #
 # Author:       George Wolf (georgewolf.ot@gmail.com)
 #
-# Purpose:      Python Final Drill 1 (The Tech Academy)
+# Purpose:      Python Final Drill 1 - Datetime (The Tech Academy)
 #
 # Tested OS:    This code was written and tested to work with Windows 10.
 
