@@ -18,10 +18,10 @@ import python_finaldrill_5_func
 
 def load_gui(self):
     
-    self.lbl_browse1 = tk.Label(self.master,text='Select your folders to copy files from source to destination')
-    self.lbl_browse1.grid(row=0,column=0,columnspan=2,padx=(1,1),pady=(1,1),sticky=N+E+S+W)
-    self.lbl_browse1 = tk.Label(self.master,text='Last File Check Time:')
-    self.lbl_browse1.grid(row=4,column=0,padx=(1,1),pady=(1,1),sticky=N+E+S+W)
+    self.lbl_select = tk.Label(self.master,text='Select your folders to copy files from source to destination')
+    self.lbl_select.grid(row=0,column=0,columnspan=2,padx=(1,1),pady=(1,1),sticky=N+E+S+W)
+    self.lbl_check = tk.Label(self.master,text='Last File Check Time:')
+    self.lbl_check.grid(row=4,column=0,padx=(1,1),pady=(1,1),sticky=N+E+S+W)
 
     self.txt_folderApath = tk.Entry(self.master,text='')
     self.txt_folderApath.grid(row=2,column=0,padx=(1,1),pady=(1,1),sticky=N+E+S+W)
