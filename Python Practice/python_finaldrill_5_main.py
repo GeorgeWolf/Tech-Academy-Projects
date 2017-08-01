@@ -22,8 +22,8 @@ class ParentWindow(Frame):
 
         # define our master frame configuration
         self.master = master
-        self.master.minsize(320,180) #(Height, Width)
-        self.master.maxsize(320,180)
+        self.master.minsize(320,200) #(Height, Width)
+        self.master.maxsize(320,200)
         # This CenterWindow method will center our app on the user's screen
         python_finaldrill_5_func.center_window(self,500,300)
         self.master.title("File Transfer")

@@ -44,11 +44,20 @@ folderA = ""
 folderB = ""
 present = ""
 lastCheck = ""
+folderApath = ""
+folderBpath = ""
 
 
 def browseFolder1(self):
     global folderA
+    global folderApath
     folderA = filedialog.askdirectory()
+    folderApath = folderA
+    self.txt_folderApath.config(state="normal")
+    self.txt_folderApath.delete(0,END)
+    self.txt_folderApath.insert(0,folderApath)
+    print('Source Folder Path: %s' %(folderApath))
+    self.txt_folderApath.config(state="readonly")
     if folderA is "":
         messagebox.showinfo("Cancelled","Source folder selection cancelled.")
     else:
@@ -57,7 +66,14 @@ def browseFolder1(self):
 
 def browseFolder2(self):
     global folderB
+    global folderBpath
     folderB = filedialog.askdirectory()
+    folderBpath = folderB
+    self.txt_folderBpath.config(state="normal")
+    self.txt_folderBpath.delete(0,END)
+    self.txt_folderBpath.insert(0,folderBpath)
+    print('Destination Folder Path: %s' %(folderBpath))
+    self.txt_folderBpath.config(state="readonly")
     if folderB is "":
         messagebox.showinfo("Cancelled","Destination folder selection cancelled.")
     else:
