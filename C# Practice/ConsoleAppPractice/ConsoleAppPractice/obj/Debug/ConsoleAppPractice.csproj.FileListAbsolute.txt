@@ -1,0 +1,7 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\ConsoleAppPractice\ConsoleAppPractice\bin\Debug\ConsoleAppPractice.exe.config
+c:\users\mrwolf\documents\visual studio 2017\Projects\ConsoleAppPractice\ConsoleAppPractice\bin\Debug\ConsoleAppPractice.exe
+c:\users\mrwolf\documents\visual studio 2017\Projects\ConsoleAppPractice\ConsoleAppPractice\bin\Debug\ConsoleAppPractice.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.exe
+c:\users\mrwolf\documents\visual studio 2017\Projects\ConsoleAppPractice\ConsoleAppPractice\obj\Debug\ConsoleAppPractice.pdb
