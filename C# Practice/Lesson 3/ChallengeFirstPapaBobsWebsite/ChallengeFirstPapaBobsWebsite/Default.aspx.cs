@@ -31,7 +31,7 @@ namespace ChallengeFirstPapaBobsWebsite
             totalAmount = (pepperoniCheckBox.Checked) ? totalAmount + 1.50 : totalAmount;
             totalAmount = (onionsCheckBox.Checked) ? totalAmount + 0.75 : totalAmount;
             totalAmount = (greenPeppersCheckBox.Checked) ? totalAmount + 0.5 : totalAmount;
-            totalAmount = (onionsCheckBox.Checked) ? totalAmount + 0.75 : totalAmount;
+            totalAmount = (redPeppersCheckBox.Checked) ? totalAmount + 0.75 : totalAmount;
             totalAmount = (anchoviesCheckBox.Checked) ? totalAmount + 2 : totalAmount;
 
             if ((pepperoniCheckBox.Checked
