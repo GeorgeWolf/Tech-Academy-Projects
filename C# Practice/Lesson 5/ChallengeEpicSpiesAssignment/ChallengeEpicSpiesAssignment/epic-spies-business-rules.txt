@@ -23,4 +23,3 @@ Display the budget to the manager in text at the bottom of the web page.
 
 Business Rule 4: If the assignment is greater than three weeks, 
 an additional $1,000 budget fee will be assessed.
-
