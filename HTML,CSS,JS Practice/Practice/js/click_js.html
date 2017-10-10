@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>li{list-style: none;}ul{height: 160px;}#btn2{display: none;}</style>
+</head>
+<body>
+
+<p>Menu Items:</p>
+<ul class="menu">
+	<li>Item One</li>
+    <li>Item Two</li>
+	<li>Item Three</li>
+    <li>Item Four</li>
+    <li>Item Five</li>
+    <li>Item Six</li>
+    <li>Item Seven</li>
+    <li>Item Eight</li>
+    <li>Item Nine</li>
+    <li>Item Ten</li>
+</ul><br><br>
+<button id="btn1" onclick="up();">Click Me!</button>
+<button id="btn2" onclick="down();">Click Me!</button>
+
+<script>
+var i = 0;
+function up() {
+	var items = document.getElementsByTagName('li');
+	items[i].style.display = "none";
+	if(++i == 10) {
+		document.getElementById("btn1").style.display = "none";
+		document.getElementById("btn2").style.display = "block";
+		i = 0;
+		return;
+	}
+	window.setTimeout(up, 50);
+};
+
+function down() {
+	var items = document.getElementsByTagName('li');
+	items[i].style.display = "block";
+	if(++i == 10) {
+		document.getElementById("btn2").style.display = "none";
+		document.getElementById("btn1").style.display = "block";
+		i = 0;
+		return;
+	}
+	window.setTimeout(down, 50);
+};
+</script>
+
+</body>
+</html>
