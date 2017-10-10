@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<style>li{list-style: none;}ul{height:160px;}#btn{transition-property:all;transition-duration:.3s;}</style>
+</head>
+<body>
+
+<p>Menu Items:</p>
+<ul class="menu">
+	<li>Item One</li>
+    <li>Item Two</li>
+	<li>Item Three</li>
+    <li>Item Four</li>
+    <li>Item Five</li>
+    <li>Item Six</li>
+    <li>Item Seven</li>
+    <li>Item Eight</li>
+    <li>Item Nine</li>
+    <li>Item Ten</li>
+</ul><br><br>
+
+<button>Click Me!</button>
+
+<script>
+
+	$(document).ready(function(){
+    	$("button").click(function(){
+        	$(".menu").slideToggle("slow");
+        });
+    });
+    
+</script>
+
+</body>
+</html>
