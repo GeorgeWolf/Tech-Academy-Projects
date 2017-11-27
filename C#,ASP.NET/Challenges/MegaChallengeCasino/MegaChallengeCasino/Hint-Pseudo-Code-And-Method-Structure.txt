@@ -1,0 +1,45 @@
+Hint about structuring the Method calls:
+
+Here's how I would tackle the application:
+
+MEGA CHALLENGE CASINO
+
+1. Setup the project
+2. Get the reels working
+2a. Get one reel working.
+2b. Get all three reels working.
+
+3. Determine the value of the pull.
+3a. Bar
+3b. Jackpot
+3c. Cherries
+
+4. Set the player's new money total.
+4a. Calculate win / loss.
+4b. Persist it to viewstate.
+
+
+In terms of structuring method calls, 
+any time I hit the 6 lines of code metric, 
+I would stop and ask myself 
+"am I doing too much in this method"?
+
+This will force me to give a name to 
+a part of code that should be 
+delegated some responsibility 
+(albeit, a small responsibility) in the system.
+
+For example, when getting one "reel" to work 
+(i.e., randomly selecting an image for the Image1 server control) 
+I might start writing code in the pullLeverButton_Click event, 
+but soon refactor (change) the code, take the code specific 
+to randomly selecting an image, etc. from the code that takes 
+the spin value and displays in in the Image1 control. 
+Now, I have created two responsibilities and two helper methods 
+called from the pullLeverButton_Click event.
+
+When I add in the next part - to get all three reels to display 
+a random image - I may add something between the pullLeverButton_Click 
+event and the existing helper methods.  I would probably call this: 
+pullLever ... it would create three spins and pass those spin values 
+into a method that knows how to display those images using the Image controls.

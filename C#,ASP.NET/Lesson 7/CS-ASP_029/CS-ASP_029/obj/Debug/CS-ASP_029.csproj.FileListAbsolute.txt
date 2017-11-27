@@ -1,0 +1,18 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_029\CS-ASP_029\bin\CS-ASP_029.dll.config
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_029\CS-ASP_029\bin\CS-ASP_029.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_029\CS-ASP_029\bin\CS-ASP_029.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_029\CS-ASP_029\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_029\CS-ASP_029\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 7\CS-ASP_029\CS-ASP_029\bin\CS-ASP_029.dll.config
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 7\CS-ASP_029\CS-ASP_029\bin\CS-ASP_029.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 7\CS-ASP_029\CS-ASP_029\bin\CS-ASP_029.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 7\CS-ASP_029\CS-ASP_029\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 7\CS-ASP_029\CS-ASP_029\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 7\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 7\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 7\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 7\CS-ASP_029\CS-ASP_029\obj\Debug\CS-ASP_029.pdb

@@ -1,0 +1,9 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll.config
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeCasino\MegaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeCasino\MegaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.pdb

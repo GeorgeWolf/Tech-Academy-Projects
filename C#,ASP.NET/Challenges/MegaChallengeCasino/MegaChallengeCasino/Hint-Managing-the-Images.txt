@@ -1,0 +1,15 @@
+Hint about Managing the Images:
+
+I keep the NAMES of the images in an array, like this:
+
+string[] images = new string[] {"Strawberry", "Bar", "Lemon", "Bell", "Clover", "Cherry", "Diamond", "Orange", "Seven", "HorseShoe", "Plum", "Watermelon"};
+
+Now, I can pick a random image for the reel by doing this:
+
+Random random = new Random();
+return images[random.Next(11)];
+
+And I can evaluate a given reel by the name of the image:
+
+if (reel1 == "Cherry")  // ... then I potentially have a winner
+

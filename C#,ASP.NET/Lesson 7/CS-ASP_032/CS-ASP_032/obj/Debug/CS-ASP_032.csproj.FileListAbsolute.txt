@@ -1,0 +1,9 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_032\CS-ASP_032\bin\CS-ASP_032.dll.config
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_032\CS-ASP_032\bin\CS-ASP_032.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_032\CS-ASP_032\bin\CS-ASP_032.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_032\CS-ASP_032\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_032\CS-ASP_032\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_032\CS-ASP_032\obj\Debug\CS-ASP_032.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_032\CS-ASP_032\obj\Debug\CS-ASP_032.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_032\CS-ASP_032\obj\Debug\CS-ASP_032.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_032\CS-ASP_032\obj\Debug\CS-ASP_032.pdb

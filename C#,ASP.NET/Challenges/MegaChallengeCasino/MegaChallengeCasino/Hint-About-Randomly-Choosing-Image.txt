@@ -1,0 +1,45 @@
+Hint about randomly choosing image:
+
+When I first created the example, I delegated the responsibility of 
+randomly selecting an image to a method like this:
+
+
+
+private string spinReel()
+{
+  Random random = new Random();
+  string[] images = new string[] {"Strawberry", "Bar", "Lemon", "Bell", "Clover", "Cherry", "Diamond", "Orange", "Seven", "HorseShoe", "Plum", "Watermelon"};
+  return images[random.Next(11)];
+}
+
+However, when I ran the application, all three images would ALWAYS be
+the same!  The reason?  When you create a new Random class instance:
+
+  Random random = new Random();
+
+The Random class uses an algorithm that APPEARS AS THOUGH it creates a
+random number each time, HOWEVER it really uses predictable algorithm
+that will return the same results every time.  To make it appear 
+truly random, it is "seeded" with the current date and time as ticks.  
+However, when we create a new Random class each time and seed it with
+the SAME date and time ticks each time (by default) it will always 
+return the SAME value!
+
+The fix is easy ... you should only create a new Random class instance
+once as a variable OUTSIDE the method, and call random.Next each time 
+you need a new number.  
+
+So, mine looks like this:
+
+Random random = new Random();
+
+private string spinReel()
+{
+  string[] images = new string[] {"Strawberry", "Bar", "Lemon", "Bell", "Clover", "Cherry", "Diamond", "Orange", "Seven", "HorseShoe", "Plum", "Watermelon"};
+  return images[random.Next(11)];
+}
+
+
+
+
+
