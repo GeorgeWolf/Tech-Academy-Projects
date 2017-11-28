@@ -1,0 +1,9 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengePhunWithStringsSolution\ChallengePhunWithStringsSolution\bin\ChallengePhunWithStringsSolution.dll.config
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengePhunWithStringsSolution\ChallengePhunWithStringsSolution\bin\ChallengePhunWithStringsSolution.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengePhunWithStringsSolution\ChallengePhunWithStringsSolution\bin\ChallengePhunWithStringsSolution.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengePhunWithStringsSolution\ChallengePhunWithStringsSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengePhunWithStringsSolution\ChallengePhunWithStringsSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengePhunWithStringsSolution\ChallengePhunWithStringsSolution\obj\Debug\ChallengePhunWithStringsSolution.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengePhunWithStringsSolution\ChallengePhunWithStringsSolution\obj\Debug\ChallengePhunWithStringsSolution.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengePhunWithStringsSolution\ChallengePhunWithStringsSolution\obj\Debug\ChallengePhunWithStringsSolution.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengePhunWithStringsSolution\ChallengePhunWithStringsSolution\obj\Debug\ChallengePhunWithStringsSolution.pdb
