@@ -94,15 +94,6 @@ namespace MegaChallengeCasino
             return false;
         }
 
-        private int determineCherryCount(string[] reels)
-        {
-            int cherryCount = 0;
-            if (reels[0] == "Cherry") cherryCount++;
-            if (reels[1] == "Cherry") cherryCount++;
-            if (reels[2] == "Cherry") cherryCount++;
-            return cherryCount;
-        }
-
         private int determineMultiplier(string[] reels)
         {
             int cherryCount = determineCherryCount(reels);
@@ -110,6 +101,15 @@ namespace MegaChallengeCasino
             if (cherryCount == 2) return 3;
             if (cherryCount == 3) return 4;
             return 0;
+        }
+
+        private int determineCherryCount(string[] reels)
+        {
+            int cherryCount = 0;
+            if (reels[0] == "Cherry") cherryCount++;
+            if (reels[1] == "Cherry") cherryCount++;
+            if (reels[2] == "Cherry") cherryCount++;
+            return cherryCount;
         }
 
         // Displays

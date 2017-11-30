@@ -1,0 +1,9 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart2\ChallengeHeroMonsterClassesPart2\obj\Debug\ChallengeHeroMonsterClassesPart2.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart2\ChallengeHeroMonsterClassesPart2\obj\Debug\ChallengeHeroMonsterClassesPart2.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart2\ChallengeHeroMonsterClassesPart2\bin\ChallengeHeroMonsterClassesPart2.dll.config
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart2\ChallengeHeroMonsterClassesPart2\bin\ChallengeHeroMonsterClassesPart2.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart2\ChallengeHeroMonsterClassesPart2\bin\ChallengeHeroMonsterClassesPart2.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart2\ChallengeHeroMonsterClassesPart2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart2\ChallengeHeroMonsterClassesPart2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart2\ChallengeHeroMonsterClassesPart2\obj\Debug\ChallengeHeroMonsterClassesPart2.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart2\ChallengeHeroMonsterClassesPart2\obj\Debug\ChallengeHeroMonsterClassesPart2.pdb
