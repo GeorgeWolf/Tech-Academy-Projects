@@ -1,0 +1,11 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\obj\Debug\CS-ASP_041.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\obj\Debug\CS-ASP_041.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\bin\CS-ASP_041.dll.config
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\bin\CS-ASP_041.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\bin\CS-ASP_041.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\bin\HeroMonster.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\bin\HeroMonster.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\obj\Debug\CS-ASP_041.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_041\CS-ASP_041\obj\Debug\CS-ASP_041.pdb

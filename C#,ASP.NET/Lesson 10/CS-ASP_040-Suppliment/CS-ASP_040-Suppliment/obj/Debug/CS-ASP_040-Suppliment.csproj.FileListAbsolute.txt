@@ -1,0 +1,21 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\CS-ASP_040-Suppliment.dll.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\CS-ASP_040-Suppliment.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\CS-ASP_040-Suppliment.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\ACME.Accounting.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\ACME.Marketing.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\ACME.Accounting.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\ACME.Marketing.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\obj\Debug\CS-ASP_040-Suppliment.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\obj\Debug\CS-ASP_040-Suppliment.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\obj\Debug\CS-ASP_040-Suppliment.pdb
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\CS-ASP_040-Suppliment.dll.config
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\CS-ASP_040-Suppliment.dll
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\CS-ASP_040-Suppliment.pdb
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\ACME.Accounting.dll
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\ACME.Marketing.dll
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\ACME.Accounting.pdb
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\bin\ACME.Marketing.pdb
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\obj\Debug\CS-ASP_040-Suppliment.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\obj\Debug\CS-ASP_040-Suppliment.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\obj\Debug\CS-ASP_040-Suppliment.dll
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\CS-ASP_040-Suppliment\obj\Debug\CS-ASP_040-Suppliment.pdb

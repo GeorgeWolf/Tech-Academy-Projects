@@ -1,0 +1,11 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Accounting\bin\Debug\ACME.Accounting.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Accounting\bin\Debug\ACME.Accounting.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Accounting\obj\Debug\ACME.Accounting.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Accounting\obj\Debug\ACME.Accounting.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Accounting\obj\Debug\ACME.Accounting.pdb
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Accounting\bin\Debug\ACME.Accounting.dll
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Accounting\bin\Debug\ACME.Accounting.pdb
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Accounting\obj\Debug\ACME.Accounting.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Accounting\obj\Debug\ACME.Accounting.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Accounting\obj\Debug\ACME.Accounting.dll
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Accounting\obj\Debug\ACME.Accounting.pdb

@@ -1,0 +1,6 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_042\HeroMonster\bin\Debug\HeroMonster.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_042\HeroMonster\bin\Debug\HeroMonster.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_042\HeroMonster\obj\Debug\HeroMonster.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_042\HeroMonster\obj\Debug\HeroMonster.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_042\HeroMonster\obj\Debug\HeroMonster.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_042\HeroMonster\obj\Debug\HeroMonster.pdb

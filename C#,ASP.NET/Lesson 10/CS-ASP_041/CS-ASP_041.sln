@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS-ASP_041", "CS-ASP_041\CS-ASP_041.csproj", "{D3171D50-0AC3-4657-938C-273D278B6B27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroMonster", "HeroMonster\HeroMonster.csproj", "{7268FA16-737A-471C-9DF1-4728FAA4DD20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3171D50-0AC3-4657-938C-273D278B6B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3171D50-0AC3-4657-938C-273D278B6B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3171D50-0AC3-4657-938C-273D278B6B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3171D50-0AC3-4657-938C-273D278B6B27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7268FA16-737A-471C-9DF1-4728FAA4DD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7268FA16-737A-471C-9DF1-4728FAA4DD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7268FA16-737A-471C-9DF1-4728FAA4DD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7268FA16-737A-471C-9DF1-4728FAA4DD20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD36283-F7E2-47C3-B819-1E8C1132D0D2}
+	EndGlobalSection
+EndGlobal

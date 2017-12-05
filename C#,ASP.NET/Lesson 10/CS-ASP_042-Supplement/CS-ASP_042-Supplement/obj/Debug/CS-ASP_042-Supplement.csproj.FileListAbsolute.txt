@@ -1,0 +1,9 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_042-Supplement\CS-ASP_042-Supplement\bin\CS-ASP_042-Supplement.dll.config
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_042-Supplement\CS-ASP_042-Supplement\bin\CS-ASP_042-Supplement.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_042-Supplement\CS-ASP_042-Supplement\bin\CS-ASP_042-Supplement.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_042-Supplement\CS-ASP_042-Supplement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_042-Supplement\CS-ASP_042-Supplement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_042-Supplement\CS-ASP_042-Supplement\obj\Debug\CS-ASP_042-Supplement.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_042-Supplement\CS-ASP_042-Supplement\obj\Debug\CS-ASP_042-Supplement.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_042-Supplement\CS-ASP_042-Supplement\obj\Debug\CS-ASP_042-Supplement.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\CS-ASP_042-Supplement\CS-ASP_042-Supplement\obj\Debug\CS-ASP_042-Supplement.pdb

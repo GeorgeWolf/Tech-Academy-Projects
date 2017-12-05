@@ -1,0 +1,11 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Marketing\bin\Debug\ACME.Marketing.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Marketing\bin\Debug\ACME.Marketing.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Marketing\obj\Debug\ACME.Marketing.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Marketing\obj\Debug\ACME.Marketing.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_040-Suppliment\ACME.Marketing\obj\Debug\ACME.Marketing.pdb
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Marketing\bin\Debug\ACME.Marketing.dll
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Marketing\bin\Debug\ACME.Marketing.pdb
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Marketing\obj\Debug\ACME.Marketing.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Marketing\obj\Debug\ACME.Marketing.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Marketing\obj\Debug\ACME.Marketing.dll
+C:\Users\MrWolf\Downloads\CS-ASP_040-Suppliment\ACME.Marketing\obj\Debug\ACME.Marketing.pdb

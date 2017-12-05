@@ -1,0 +1,12 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\CS-ASP_041-Windows.exe.config
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\CS-ASP_041-Windows.exe
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\CS-ASP_041-Windows.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\HeroMonster.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\bin\Debug\HeroMonster.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS_ASP_041_Windows.Form1.resources
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS_ASP_041_Windows.Properties.Resources.resources
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.csproj.GenerateResource.Cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.exe
+c:\users\mrwolf\documents\visual studio 2017\Projects\CS-ASP_041-Windows\CS-ASP_041-Windows\obj\Debug\CS-ASP_041-Windows.pdb
