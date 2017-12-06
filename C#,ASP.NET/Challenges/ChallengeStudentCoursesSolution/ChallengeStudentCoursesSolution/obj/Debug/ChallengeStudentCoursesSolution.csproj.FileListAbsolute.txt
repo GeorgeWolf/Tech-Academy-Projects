@@ -1,0 +1,9 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\ChallengeStudentCoursesSolution\ChallengeStudentCoursesSolution\bin\ChallengeStudentCoursesSolution.dll.config
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\ChallengeStudentCoursesSolution\ChallengeStudentCoursesSolution\bin\ChallengeStudentCoursesSolution.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\ChallengeStudentCoursesSolution\ChallengeStudentCoursesSolution\bin\ChallengeStudentCoursesSolution.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\ChallengeStudentCoursesSolution\ChallengeStudentCoursesSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\ChallengeStudentCoursesSolution\ChallengeStudentCoursesSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\ChallengeStudentCoursesSolution\ChallengeStudentCoursesSolution\obj\Debug\ChallengeStudentCoursesSolution.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\ChallengeStudentCoursesSolution\ChallengeStudentCoursesSolution\obj\Debug\ChallengeStudentCoursesSolution.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\ChallengeStudentCoursesSolution\ChallengeStudentCoursesSolution\obj\Debug\ChallengeStudentCoursesSolution.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\ChallengeStudentCoursesSolution\ChallengeStudentCoursesSolution\obj\Debug\ChallengeStudentCoursesSolution.pdb

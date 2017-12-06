@@ -1,0 +1,9 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeWarSolution\MegaChallengeWarSolution\bin\MegaChallengeWarSolution.dll.config
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeWarSolution\MegaChallengeWarSolution\bin\MegaChallengeWarSolution.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeWarSolution\MegaChallengeWarSolution\bin\MegaChallengeWarSolution.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeWarSolution\MegaChallengeWarSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeWarSolution\MegaChallengeWarSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeWarSolution\MegaChallengeWarSolution\obj\Debug\MegaChallengeWarSolution.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeWarSolution\MegaChallengeWarSolution\obj\Debug\MegaChallengeWarSolution.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeWarSolution\MegaChallengeWarSolution\obj\Debug\MegaChallengeWarSolution.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\MegaChallengeWarSolution\MegaChallengeWarSolution\obj\Debug\MegaChallengeWarSolution.pdb

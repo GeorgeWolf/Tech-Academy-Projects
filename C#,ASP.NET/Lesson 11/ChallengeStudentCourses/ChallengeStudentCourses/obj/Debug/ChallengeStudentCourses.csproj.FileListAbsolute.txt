@@ -1,0 +1,9 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll.config
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeStudentCourses\ChallengeStudentCourses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeStudentCourses\ChallengeStudentCourses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.pdb
