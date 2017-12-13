@@ -1,0 +1,6 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_056\ExceptionHandling\ExceptionHandling.Domain\bin\Debug\ExceptionHandling.Domain.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_056\ExceptionHandling\ExceptionHandling.Domain\bin\Debug\ExceptionHandling.Domain.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_056\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_056\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_056\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_056\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.pdb

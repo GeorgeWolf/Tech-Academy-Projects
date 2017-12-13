@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FakeDecksModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Guid" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ProductType" Type="FakeDecksModel.ProductType" Nullable="false" />
+    <Property Name="Color" Type="FakeDecksModel.Color" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="FakeDecksEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Products" EntityType="Self.Product" />
+  </EntityContainer>
+  <EnumType Name="ProductType" a:ExternalTypeName="EntityFrameworkEnums.ProductType" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+  <EnumType Name="Color">
+    <Member Name="Black" />
+    <Member Name="Red" />
+    <Member Name="Silver" />
+  </EnumType>
+</Schema>

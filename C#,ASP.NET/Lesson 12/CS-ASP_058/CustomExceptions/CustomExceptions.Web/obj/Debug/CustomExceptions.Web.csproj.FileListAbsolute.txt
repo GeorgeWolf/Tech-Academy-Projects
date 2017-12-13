@@ -1,0 +1,11 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\obj\Debug\CustomExceptions.Web.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\obj\Debug\CustomExceptions.Web.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\bin\CustomExceptions.Web.dll.config
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\bin\CustomExceptions.Web.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\bin\CustomExceptions.Web.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\bin\CustomExceptions.Domain.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\bin\CustomExceptions.Domain.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\obj\Debug\CustomExceptions.Web.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Web\obj\Debug\CustomExceptions.Web.pdb

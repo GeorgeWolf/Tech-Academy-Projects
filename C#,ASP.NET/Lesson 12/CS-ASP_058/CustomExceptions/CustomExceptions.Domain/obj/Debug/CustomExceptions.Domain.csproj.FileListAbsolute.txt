@@ -1,0 +1,6 @@
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.csprojResolveAssemblyReference.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.csproj.CoreCompileInputs.cache
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Domain\bin\Debug\CustomExceptions.Domain.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Domain\bin\Debug\CustomExceptions.Domain.pdb
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.dll
+c:\users\mrwolf\documents\visual studio 2017\Projects\CustomExceptions\CustomExceptions.Domain\obj\Debug\CustomExceptions.Domain.pdb

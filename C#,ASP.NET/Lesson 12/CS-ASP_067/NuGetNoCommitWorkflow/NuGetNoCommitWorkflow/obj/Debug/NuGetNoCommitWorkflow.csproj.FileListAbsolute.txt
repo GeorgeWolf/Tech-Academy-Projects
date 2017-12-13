@@ -1,0 +1,10 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\bin\Debug\NuGetNoCommitWorkflow.exe.config
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\bin\Debug\NuGetNoCommitWorkflow.exe
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\bin\Debug\NuGetNoCommitWorkflow.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\bin\Debug\Elmah.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\obj\Debug\NuGetNoCommitWorkflow.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\obj\Debug\NuGetNoCommitWorkflow.Properties.Resources.resources
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\obj\Debug\NuGetNoCommitWorkflow.csproj.GenerateResource.Cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\obj\Debug\NuGetNoCommitWorkflow.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\obj\Debug\NuGetNoCommitWorkflow.exe
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\NuGetNoCommitWorkflow\NuGetNoCommitWorkflow\obj\Debug\NuGetNoCommitWorkflow.pdb

@@ -1,0 +1,6 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_064\LocalDbExample\LocalDbExample.DTO\bin\Debug\LocalDbExample.DTO.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_064\LocalDbExample\LocalDbExample.DTO\bin\Debug\LocalDbExample.DTO.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_064\LocalDbExample\LocalDbExample.DTO\obj\Debug\LocalDbExample.DTO.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_064\LocalDbExample\LocalDbExample.DTO\obj\Debug\LocalDbExample.DTO.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_064\LocalDbExample\LocalDbExample.DTO\obj\Debug\LocalDbExample.DTO.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\Lesson 12\CS-ASP_064\LocalDbExample\LocalDbExample.DTO\obj\Debug\LocalDbExample.DTO.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\GridViewButtonCommand\GridViewButtonCommand\bin\GridViewButtonCommand.dll.config
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\GridViewButtonCommand\GridViewButtonCommand\bin\GridViewButtonCommand.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\GridViewButtonCommand\GridViewButtonCommand\bin\GridViewButtonCommand.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\GridViewButtonCommand\GridViewButtonCommand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\GridViewButtonCommand\GridViewButtonCommand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\GridViewButtonCommand\GridViewButtonCommand\obj\Debug\GridViewButtonCommand.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\GridViewButtonCommand\GridViewButtonCommand\obj\Debug\GridViewButtonCommand.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\GridViewButtonCommand\GridViewButtonCommand\obj\Debug\GridViewButtonCommand.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\GridViewButtonCommand\GridViewButtonCommand\obj\Debug\GridViewButtonCommand.pdb
