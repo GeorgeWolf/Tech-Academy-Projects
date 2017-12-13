@@ -1,5 +1,0 @@
-c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeSimpleDartsSolution\Darts\bin\Debug\Darts.dll
-c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeSimpleDartsSolution\Darts\bin\Debug\Darts.pdb
-c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeSimpleDartsSolution\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
-c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeSimpleDartsSolution\Darts\obj\Debug\Darts.dll
-c:\users\mrwolf\documents\visual studio 2017\Projects\ChallengeSimpleDartsSolution\Darts\obj\Debug\Darts.pdb
