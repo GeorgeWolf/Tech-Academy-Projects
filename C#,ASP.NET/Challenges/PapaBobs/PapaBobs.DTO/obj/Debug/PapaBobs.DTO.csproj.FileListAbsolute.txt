@@ -1,0 +1,6 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.pdb
+C:\Users\MrWolf\documents\visual studio 2017\Projects\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csprojResolveAssemblyReference.cache
