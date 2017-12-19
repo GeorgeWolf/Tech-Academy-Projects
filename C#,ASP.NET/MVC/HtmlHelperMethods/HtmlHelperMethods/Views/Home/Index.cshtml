@@ -1,0 +1,71 @@
+﻿@model HtmlHelperMethods.Models.Book
+@{
+    ViewBag.Title = "Index";
+
+    List<SelectListItem> categories = (List<SelectListItem>)ViewBag.Categories;
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(p => p.Title)
+        @Html.TextBoxFor(p => p.Title, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(p => p.CopiesSold)
+        @Html.EditorFor(p => p.CopiesSold, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(p => p.YearPublished)
+        @Html.DropDownListFor(p => p.YearPublished, new SelectList(
+            new List<Object>
+            {
+                new { text = 2010 },
+                new { text = 2011 },
+                new { text = 2012 },
+                new { text = 2013 },
+                new { text = 2014 },
+                new { text = 2015 },
+                new { text = 2016 },
+                new { text = 2017 }
+            }, "text", "text", 2017),
+                new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(p => p.Category)
+        @Html.ListBoxFor(p => p.Category, categories, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(p => p.Genre)
+        @Html.EnumDropDownListFor(p => p.Genre, "Choose one...", new { @class = "form-control" })
+    </div>
+
+    <div class="checkbox">
+        @Html.LabelFor(p => p.InStock)
+        @Html.CheckBoxFor(p => p.InStock)
+    </div>
+
+    @Html.RadioButtonFor(p => p.Availability, HtmlHelperMethods.Models.Availability.Pickup, new { id = @HtmlHelperMethods.Models.Availability.Pickup, @checked = true, @GroupName = "MyGroup" })
+    <label for="@HtmlHelperMethods.Models.Availability.Pickup">@HtmlHelperMethods.Models.Availability.Pickup</label>
+
+    @Html.RadioButtonFor(p => p.Availability, HtmlHelperMethods.Models.Availability.Delivery, new { id = @HtmlHelperMethods.Models.Availability.Delivery, @GroupName = "MyGroup" })
+    <label for="@HtmlHelperMethods.Models.Availability.Delivery">@HtmlHelperMethods.Models.Availability.Delivery</label>
+
+    @Html.RadioButtonFor(p => p.Availability, HtmlHelperMethods.Models.Availability.Reseller, new { id = @HtmlHelperMethods.Models.Availability.Reseller, @GroupName = "MyGroup" })
+    <label for="@HtmlHelperMethods.Models.Availability.Reseller">@HtmlHelperMethods.Models.Availability.Reseller</label>
+
+    <div class="form-group">
+        @Html.LabelFor(p => p.Description)
+        @Html.TextAreaFor(p => p.Description, 5, 30, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-default" />
+    </div>
+}

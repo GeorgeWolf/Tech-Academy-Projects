@@ -1,0 +1,55 @@
+﻿@model IEnumerable<ACME.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")<br />
+
+    @Html.ActionLink("Create New", "Create", null, htmlAttributes: new { data_toggle = "tooltip", data_placement = "right", title = "Click here to create a new Product" })<br />
+
+    @Html.ActionLink("Create New using Dictionary", "Create", null, new Dictionary<string, object> { { "data-toggle", "tooltip" }, { "data-placement", "right" }, { "title", "Click here to create a new Product" } })<br />
+
+    @Html.ActionLink("Create V3", "Create", new RouteValueDictionary(new { locale = "en-US", year = DateTime.Now.Year.ToString() }))<br />
+
+    @{
+        // Belongs to Version 4
+        var myDictionary = new Dictionary<string, object>();
+        myDictionary.Add("First", "A");
+        myDictionary.Add("Second", "B");
+        myDictionary.Add("Third", "C");
+    }
+    @Html.ActionLink("Create V4", "Create", new RouteValueDictionary(myDictionary))
+
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ProductId, somesuch=456 }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ProductId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ProductId })
+        </td>
+    </tr>
+}
+
+</table>

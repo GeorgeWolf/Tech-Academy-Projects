@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>@Resources.LocalizedStrings.String1</p>
+
+<p>Languages:</p>
+<p>
+    @foreach (var language in ViewBag.Languages)
+    {
+        @language<br />
+    }
+</p>

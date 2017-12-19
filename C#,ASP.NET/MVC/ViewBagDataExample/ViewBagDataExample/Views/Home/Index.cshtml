@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>@ViewBag.MyDynamicProperty</p>
+
+<p>@ViewData["MyOtherViewDataProperty"]</p>
+
+
+<h3>Proving your ViewBag is in the ViewData:</h3>
+<p>@ViewData.ElementAt(0).Value</p>
+<p>@ViewData.ElementAt(1).Value</p>
+<p>@ViewData.ElementAt(2).Value</p>

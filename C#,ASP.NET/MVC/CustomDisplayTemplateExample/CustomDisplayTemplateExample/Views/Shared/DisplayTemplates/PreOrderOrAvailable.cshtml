@@ -1,0 +1,10 @@
+﻿@model DateTime
+
+@if (Model < DateTime.Now)
+{
+    <span class="available">@Model.ToShortDateString()</span>
+}
+else
+{
+    <span class="preorder">To Be Released: @Model.ToShortDateString()</span>
+}

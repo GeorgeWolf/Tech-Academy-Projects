@@ -1,0 +1,19 @@
+﻿@model DateTime
+
+@{
+    var id = "dateTimePicker" + ViewData["id"];
+}
+
+<div class='input-group date' id='@id' style="max-width: 280px;">
+    <input type='text' class="form-control text-box single-line" style="max-width: 100%;" value="@Model" />
+    <span class="input-group-addon">
+        <span class="glyphicon glyphicon-calendar"></span>
+    </span>
+</div>
+<script type="text/javascript">
+                    $(function () {
+                        $('#@id').datetimepicker({
+                            format: 'L'
+                        });
+                    });
+</script>

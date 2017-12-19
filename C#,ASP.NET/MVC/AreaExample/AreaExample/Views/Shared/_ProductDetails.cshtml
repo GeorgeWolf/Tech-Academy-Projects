@@ -1,0 +1,6 @@
+﻿@model AreaExample.Models.Product
+<div class="col-md-2 column productbox">
+    <img src="http://placehold.it/460x250/262d37/ffffff&text=@Model.Name" class="img-responsive">
+    <div class="producttitle">@Model.Name</div>
+    <div class="productprice"><div class="pull-right"><a href="/Home/Detail/@Model.ProductId" class="btn btn-danger btn-sm" role="button">BUY</a></div><div class="pricetext">@Model.Price.ToString("C2")</div></div>
+</div>

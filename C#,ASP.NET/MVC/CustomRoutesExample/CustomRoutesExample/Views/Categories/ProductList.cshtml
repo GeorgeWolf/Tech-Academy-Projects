@@ -1,0 +1,15 @@
+﻿@model IEnumerable<CustomRoutesExample.Models.Product>
+@{
+    ViewBag.Title = "ProductList";
+}
+
+<h2>Product List</h2>
+
+@{
+    int i = 0;
+    foreach (var product in Model)
+    {
+        <p><a href="/Categories/@ViewBag.Category/@i">@product.Name</a></p>
+        i++;
+    }
+}

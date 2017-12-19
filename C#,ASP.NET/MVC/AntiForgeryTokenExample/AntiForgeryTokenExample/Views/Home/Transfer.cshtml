@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Transfer";
+}
+
+<h2>Transfer</h2>
+
+<p>UserID: @ViewBag.UserId</p>
+<p>Available Funds: @ViewBag.Funds</p>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <p>Account to Send Fund To: @Html.TextBox("account")</p>
+    <p>Amount: @Html.TextBox("amount")</p>
+    <input type="submit" value="Transfer" />
+}

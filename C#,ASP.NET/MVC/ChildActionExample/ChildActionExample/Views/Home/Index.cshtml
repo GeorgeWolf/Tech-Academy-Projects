@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ChildActionExample.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8 col-md-9">
+
+            @foreach (var product in Model)
+            {
+                Html.RenderPartial("~/Views/Shared/_ProductDetails.cshtml", product);
+            }
+
+        </div>
+
+        
+        @Html.Action("Categories")
+        
+
+
+        @{ Html.RenderAction("Categories"); }
+
+
+
+    </div>
+</div>

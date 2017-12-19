@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#hackerButton").click(function (event) {
+                $.post("/Home/Transfer/HACKERSACCOUNT/100",
+                    function () {
+                        window.location.href = "hackersuccess.html";
+                    });
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Download this game for free!</h1>
+    <input type="button" id="hackerButton" value="Download Now" />
+</body>
+</html>

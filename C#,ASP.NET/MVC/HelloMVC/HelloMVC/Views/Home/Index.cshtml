@@ -1,0 +1,99 @@
+﻿@model List<HelloMVC.Models.Car>
+@{
+    ViewBag.Title = "Index";
+    var value = 1000;
+}
+
+<h1>@ViewBag.WolfCreatedThisValue</h1>
+<h2>Wolf Changed This</h2>
+<p>Hello again!</p>
+
+@{ 
+    value += 1;
+}
+
+@{ 
+    var name = "Wolf";
+    var day = DateTime.Now.DayOfWeek.ToString();
+
+    <p>Howdy, @name. Today is @day.</p>
+    <p>Howdy, @name. Aren't @(day)s the best?</p>
+}
+
+@{ 
+    var productId = 123;
+    <p>Product ID: ACME@(productId)</p>
+}
+
+<p>Value: @value.ToString("C")</p>
+
+@foreach (var car in Model)
+{
+    <p>@car.Id  - @car.Make - @car.Model</p>
+}
+
+
+@helper pluralizeChildren(int childCount) { 
+    @(childCount == 1 ? "child" : "children");
+    }
+
+@{
+        var childCount = 1;
+    <p>I have @childCount  @pluralizeChildren(childCount).</p>
+}
+
+
+@helper pluralize(int amount, string singular, string plural)
+{ 
+    @(amount == 1 ? singular : plural)
+}
+
+@{ 
+    var crisesCount = 2;
+    <p>Mr. President, there @pluralize(crisesCount, "is one crisis", "are " + crisesCount + " crises") you must deal with immediately.</p>
+}
+
+
+
+@* This is a comment *@
+
+
+<p>
+    Mr. President, there
+    @if (crisesCount == 1)
+    {
+        <span>is one crisis</span>
+    }
+    else
+    {
+        <span> are @crisesCount crises</span>
+    }
+    you must deal with immediately!
+</p>
+
+
+<p>
+    @{ 
+        var test = false;
+        if (!test)
+        {
+            @:Display This
+
+            <span>
+                Now is the time for all good men
+                to come to the aid of their
+                country.
+            </span>
+        }
+    }
+</p>
+
+
+@for (int i = 0; i < 10; i++)
+{
+    <p>@i</p>
+}
+
+
+<p>wolf@wolfprog.com</p>
+<p>@@mrwolf</p>
