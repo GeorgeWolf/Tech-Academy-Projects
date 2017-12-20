@@ -1,0 +1,76 @@
+﻿@using System.Data.Entity.Core.Objects
+@using LearnVisualStudioAdmin.Models
+@model LearnVisualStudioAdmin.Models.Lesson
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Lesson</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to Course", "Details", "Courses", new { Id = Model.CourseId }, null)
+</p>
+
+<p>&nbsp;</p>
+
+<h3>Tasks</h3>
+
+<p>
+    Create New
+    @Html.ActionLink("Video Task", "Create", "VideoActivities", new { LessonId = Model.Id }, new { }) |
+
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Number
+        </th>
+        <th>
+            Name
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.Activities)
+    {
+        <tr>
+            <td>
+                @item.OrdinalPosition
+            </td>
+            <td>
+                @item.AdminFriendlyName
+            </td>
+
+            @if (ObjectContext.GetObjectType(item.GetType()) == typeof(VideoActivity))
+            {
+                <td>
+                    @Html.ActionLink("Edit", "Edit", "VideoActivities", new { id = item.Id }, new { })
+                </td>
+            }
+
+        </tr>
+    }
+</table>

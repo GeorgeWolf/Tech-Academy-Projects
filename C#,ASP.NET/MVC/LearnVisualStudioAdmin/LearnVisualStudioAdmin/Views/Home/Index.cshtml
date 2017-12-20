@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Admin Home";
+}
+
+<h2>Admin Home</h2>
+
+@if (Request.IsAuthenticated)
+{
+    <p>@Html.ActionLink("Manage Courses", "Index", "Courses")</p>
+}
+else
+{
+    <p>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</p>
+}

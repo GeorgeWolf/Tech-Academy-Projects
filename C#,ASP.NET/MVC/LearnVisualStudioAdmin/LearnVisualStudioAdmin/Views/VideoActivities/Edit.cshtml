@@ -1,0 +1,125 @@
+﻿@model LearnVisualStudioAdmin.Models.VideoActionEditViewModel
+
+@{
+    ViewBag.Title = "Edit Video Activity";
+}
+
+<h2>Edit Video Activity</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(model => model.VideoActivity.LessonId)
+    @Html.HiddenFor(model => model.VideoActivity.Id)
+    @Html.HiddenFor(model => model.VideoActivity.RowVersion)
+    <div class="form-horizontal">
+        <h4>VideoActivity</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.VideoActivity.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VideoActivity.Segment, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VideoActivity.Segment, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.VideoActivity.Segment, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VideoActivity.AdminFriendlyName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VideoActivity.AdminFriendlyName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.VideoActivity.AdminFriendlyName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VideoActivity.OrdinalPosition, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VideoActivity.OrdinalPosition, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.VideoActivity.OrdinalPosition, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VideoActivity.Title, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VideoActivity.Title, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.VideoActivity.Title, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VideoActivity.Body, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VideoActivity.Body, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.VideoActivity.Body, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VideoActivity.VimeoId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VideoActivity.VimeoId, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.VideoActivity.VimeoId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VideoActivity.DurationMinutes, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VideoActivity.DurationMinutes, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.VideoActivity.DurationMinutes, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VideoActivity.DurationSeconds, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VideoActivity.DurationSeconds, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.VideoActivity.DurationSeconds, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VideoActivity.Published, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VideoActivity.Published, new { htmlAttributes = new { @class = "form-control" }, controlName = "VideoActivity.Published" })
+                @Html.ValidationMessageFor(model => model.VideoActivity.Published, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="VideoActivity_SelectedViewsItemIds">Can View</label>
+            <div class="col-md-10">
+                @Html.ListBoxFor(p => p.SelectedViewsItemIds, Model.ViewsItems, new { @class = "chosen-select form-control", data_placeholder = "Choose roles..." })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="VideoActivity_SelectedDownloadsItemIds">Can Download</label>
+            <div class="col-md-10">
+                @Html.ListBoxFor(p => p.SelectedDownloadsItemIds, Model.DownloadsItems, new { @class = "chosen-select form-control", data_placeholder = "Choose roles..." })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="VideoActivity_SelectedCommentsItemIds">Can Comment</label>
+            <div class="col-md-10">
+                @Html.ListBoxFor(p => p.SelectedCommentsItemIds, Model.CommentsItems, new { @class = "chosen-select form-control", data_placeholder = "Choose roles..." })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to Lesson", "Details", "Lessons", new { Id = Model.VideoActivity.LessonId }, new { })
+</div>

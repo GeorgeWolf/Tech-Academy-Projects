@@ -1,0 +1,104 @@
+﻿@model LearnVisualStudioAdmin.Models.Course
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Course Details</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Segment)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Segment)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AdminFriendlyName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdminFriendlyName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Body)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Body)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Published)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Published)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrdinalPosition)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrdinalPosition)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to Course List", "Index")
+</p>
+
+<p>&nbsp;</p>
+<hr />
+
+<h3>Course Lessons</h3>
+
+<p>
+    @Html.ActionLink("Create New", "Create", "Lessons", new { CourseId = Model.Id }, new { })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Lesson Number
+        </th>
+        <th>
+            Lesson Title
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Lessons.OrderBy(p => p.Number))
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Lessons", new { id = item.Id }, new { }) |
+                @Html.ActionLink("Details", "Details", "Lessons", new { id = item.Id }, new { }) |
+                @Html.ActionLink("Delete", "Delete", "Lessons", new { id = item.Id }, new { })
+            </td>
+        </tr>
+    }
+
+
+
+</table>

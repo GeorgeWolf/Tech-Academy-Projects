@@ -1,0 +1,153 @@
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\csc.exe
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\System.Collections.Immutable.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\System.Reflection.Metadata.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\vbc.exe
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\VBCSCompiler.exe
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\VBCSCompiler.exe.config
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\LearnVisualStudioAdmin.dll.config
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\LearnVisualStudioAdmin.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\LearnVisualStudioAdmin.pdb
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\AntiXssLibrary.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Antlr3.Runtime.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\EntityFramework.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\EntityFramework.SqlServer.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\HtmlSanitizationLibrary.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.Core.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.Owin.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Host.SystemWeb.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Cookies.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Facebook.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Google.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.OAuth.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Twitter.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Web.Infrastructure.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Newtonsoft.Json.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Owin.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Helpers.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Mvc.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Optimization.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Razor.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.Deployment.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.Razor.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\WebGrease.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\AntiXssLibrary.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\HtmlSanitizationLibrary.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Helpers.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Mvc.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Optimization.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Razor.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.Deployment.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.Razor.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Antlr3.Runtime.pdb
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Newtonsoft.Json.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\EntityFramework.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\EntityFramework.SqlServer.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.Core.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.Owin.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Host.SystemWeb.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Facebook.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Cookies.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.OAuth.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Google.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Twitter.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.csprojResolveAssemblyReference.cache
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.dll
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.pdb
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.Migrations.InitialCreate.resources
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.csproj.GenerateResource.Cache
+e:\onedrive\documents\visual studio 2015\Projects\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.Migrations.FirstMigration.resources
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\csc.exe
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\vbc.exe
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\LearnVisualStudioAdmin.dll.config
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\LearnVisualStudioAdmin.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\LearnVisualStudioAdmin.pdb
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\AntiXssLibrary.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Antlr3.Runtime.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\EntityFramework.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\HtmlSanitizationLibrary.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Newtonsoft.Json.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Owin.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Helpers.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Mvc.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Optimization.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Razor.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\WebGrease.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\AntiXssLibrary.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\HtmlSanitizationLibrary.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Helpers.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Mvc.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Optimization.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.Razor.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Newtonsoft.Json.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\EntityFramework.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.Migrations.InitialCreate.resources
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.Migrations.FirstMigration.resources
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.csproj.GenerateResource.Cache
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.dll
+C:\Users\MrWolf\Downloads\LearnVisualStudioAdmin\LearnVisualStudioAdmin\obj\Debug\LearnVisualStudioAdmin.pdb
