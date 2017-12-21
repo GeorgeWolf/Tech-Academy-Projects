@@ -1,0 +1,13 @@
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.dll
+C:\Users\MrWolf\Documents\Visual Studio 2017\Projects\EntityFrameworkCodeFirst\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.pdb
