@@ -1,2 +1,4 @@
 # Tech-Academy-Projects
-The Tech Academy Curriculum Projects
+Projects I have done during the curriculum at The Tech Academy
+
+For better visual and organized structure, please visit www.wolfprog.com
