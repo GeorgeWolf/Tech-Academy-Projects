@@ -1,4 +1,4 @@
-# Python:   2.7.13
+# Python:   2.7.14
 #
 # Author:   George Wolf (georgewolf.ot@gmail.com)
 #
@@ -56,7 +56,7 @@ def describe_game(name):
         stop = True
         while stop:
                 if name == "":
-                    name = raw_input("\nWhat is your name?").capitalize()
+                    name = raw_input("\nWhat is your name? ").capitalize()
                     if name != "":
                         print("\nWelcome, {}!".format(name))
                         print("\nIn this game, you will be greeted by several different clan leaders. \nYou can be nice or mean.")
@@ -70,7 +70,7 @@ def nice_mean(nice,mean,name):
     stop = True
     while stop:
         show_score(nice,mean,name)
-        pick = raw_input("\n\n\nA warrior from a stranger clan approaches you. He is wielding a battle axe\nWill you be nice or mean? n/m:").lower()
+        pick = raw_input("\n\n\nA warrior from a stranger clan approaches you. He is wielding a battle axe\nWill you be nice or mean? n/m: ").lower()
         if pick == "n":
             print("\n\n\nHe greets you with respect. Your ways are parting, but you know you have just made a friend...")
             nice = (nice +1)

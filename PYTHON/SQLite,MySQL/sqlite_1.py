@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Python Ver:   3.6.2
+# Python Ver:   3.6.5
 #
 # Author:       George Wolf (georgewolf.ot@gmail.com)
 #
