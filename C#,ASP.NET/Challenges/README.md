@@ -6,4 +6,4 @@ In some folders you will find zip files which contains the source code of that c
 
 Enjoy! :)
 
-For better visual and organized structure, please visit www.wolfprog.com
+For better visual and organized structure, please visit https://www.wolfprog.com/
